@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'project01';
+  title = '首页';
+  createserve(){
+    console.log('周锡献')
+  }
 }
